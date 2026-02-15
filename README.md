@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @YagoSouza21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Yago Souza 👋
+# Olá, eu sou Yago Souza 👋
 
-<!---
-YagoSouza21/YagoSouza21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🇺🇸 English
+I'm a Systems Analysis and Development student passionate about technology and programming.
+
+- Interested in Python, Java, and systems development
+- Learning Oracle Database and database management
+- Always improving my programming skills
+- Goal: Become a professional software developer
+
+## 🇧🇷 Português
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação.
+
+- Interessado em Python, Java e desenvolvimento de sistemas
+- Aprendendo Oracle Database e gerenciamento de banco de dados
+- Sempre melhorando minhas habilidades em programação
+- Objetivo: Me tornar um desenvolvedor de software profissional
+
+## 📫 Contact / Contato
+GitHub: https://github.com/YagoSouza21
